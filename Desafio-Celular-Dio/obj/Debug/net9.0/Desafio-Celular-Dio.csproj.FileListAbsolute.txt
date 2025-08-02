@@ -1,0 +1,15 @@
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\bin\Debug\net9.0\Desafio-Celular-Dio.exe
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\bin\Debug\net9.0\Desafio-Celular-Dio.deps.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\bin\Debug\net9.0\Desafio-Celular-Dio.runtimeconfig.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\bin\Debug\net9.0\Desafio-Celular-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\bin\Debug\net9.0\Desafio-Celular-Dio.pdb
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.AssemblyInfoInputs.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.AssemblyInfo.cs
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.sourcelink.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\refint\Desafio-Celular-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.pdb
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\Desafio-Celular-Dio.genruntimeconfig.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Celular-Dio\Desafio-Celular-Dio\obj\Debug\net9.0\ref\Desafio-Celular-Dio.dll
